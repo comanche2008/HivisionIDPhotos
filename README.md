@@ -29,7 +29,7 @@
 
 > **相关项目**：
 >
-> - [SwanLab](https://github.com/SwanHubX/SwanLab)：一个开源、现代化设计的深度学习训练跟踪与可视化工具，同时支持云端/离线使用，国内好用的Wandb平替；适配30+主流框架（PyTorch、HuggingFace Transformers、LLaMA Factory、Lightning等），欢迎使用！
+> - [TRIO](https://pytrio.cn/home)：一个新型的AI计算平台（Tinker Like），让模型训练者无需维护复杂GPU基础设施，在个人电脑就可以轻松做llm sft/rl训练，训推均按token计费而非GPU时，支持弹性扩展，同时开20个实验不再困难。
 
 
 <br>
